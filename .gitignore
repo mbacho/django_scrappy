@@ -1,0 +1,12 @@
+#ide files
+.idea
+
+#python compiled files
+*.pyc
+*.pyo
+
+
+#scrapped data
+data/*
+
+
